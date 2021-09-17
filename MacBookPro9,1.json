@@ -1,0 +1,15 @@
+{
+    "MacName": "MacBook Pro (15-inch, Mid 2012)",
+    "Author": "@BushWrinkle",
+    "Details": "Everything working perfectly.",
+    "Works": [
+        "WiFi, Ethernet and Bluetooth",
+        "I/O Ports",
+        "Sleep and Brightness",
+        "Graphics Acceleration"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "FileVault"
+    ]
+}
